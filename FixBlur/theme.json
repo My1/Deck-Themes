@@ -3,7 +3,7 @@
     "version": "v1.0",
     "author": "My1",
     "target": "Tweak",
-    "description": "Fixes the Blur remaining after opening Update Notes. May occasionally cause Update Notes not to show, close and open of the note generally fixes this",
+    "description": "Fixes the Blur remaining after opening Update Notes. May occasionally cause Update Notes not to show, closing it and opening another note generally fixes this.",
     "manifest_version": 4,
     "inject": {
         "FixBlur.css": [
