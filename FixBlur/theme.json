@@ -1,0 +1,14 @@
+{
+    "name": "Fix Background Blur",
+    "version": "v1.0",
+    "author": "My1",
+    "target": "Background",
+    "description": "Fixes the Blur remaining after opening Update Notes",
+    "manifest_version": 4,
+    "inject": {
+        "FixBlur.css": [
+            "SP"
+        ]
+    },
+    "patches": {}
+}
