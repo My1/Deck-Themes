@@ -1,0 +1,3 @@
+div#Main:not([tabindex]) #PartnerEventOverlayContainer {
+    display: none!important;
+}
